@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.c6f120d6.chunk.css",
+    "main.css": "./static/css/main.8fd09d59.chunk.css",
     "main.js": "./static/js/main.43ef314c.chunk.js",
     "main.js.map": "./static/js/main.43ef314c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1a1f1792.js",
@@ -8,7 +8,7 @@
     "static/js/2.c56a34cd.chunk.js": "./static/js/2.c56a34cd.chunk.js",
     "static/js/2.c56a34cd.chunk.js.map": "./static/js/2.c56a34cd.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.c6f120d6.chunk.css.map": "./static/css/main.c6f120d6.chunk.css.map",
+    "static/css/main.8fd09d59.chunk.css.map": "./static/css/main.8fd09d59.chunk.css.map",
     "static/js/2.c56a34cd.chunk.js.LICENSE.txt": "./static/js/2.c56a34cd.chunk.js.LICENSE.txt",
     "static/media/AWS_logo.png": "./static/media/AWS_logo.7e69599a.png",
     "static/media/index.css": "./static/media/Montserrat-Regular.3cd78665.ttf",
@@ -65,7 +65,7 @@
   "entrypoints": [
     "static/js/runtime-main.1a1f1792.js",
     "static/js/2.c56a34cd.chunk.js",
-    "static/css/main.c6f120d6.chunk.css",
+    "static/css/main.8fd09d59.chunk.css",
     "static/js/main.43ef314c.chunk.js"
   ]
 }
