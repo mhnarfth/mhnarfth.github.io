@@ -1,4 +1,4 @@
-/* Change this file to get your personal Porfolio */
+/* Change this file to edit the Porfolio */
 
 // Website related settings
 const settings = {
@@ -19,26 +19,27 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Mohd. Arafath Uddin Shariff",
+  title: "M A U Shariff",
   logo_name: "",
   nickname: "Mahin",
   subTitle:
-    "A passionate and energetic tech-savvy? Definitely, zeal to research both Data Science and Artificial Intelligence. Along with updated technology reinforcement competency on a basis of Machine Learning to connect the dots between Data Science and AI, as well as to design multiple bridge applications for realtime problems.",
+    "Fuelled by Passion, Driven by Innovation: Embracing the Intersection of Data Science and Artificial Intelligence. With a relentless Zeal for Exploration: Navigating the Boundless Frontiers of Technology, Weaving Together the Threads of Machine Learning to Forge Solutions for Real-World Challenges. Join me on a Journey of Discovery and Creation, Where Every Line of Code Tells a Story of Transformation and Possibility.",
+
   resumeLink:
-    "https://drive.google.com/file/d/1e4Cvh5zuU2-nm3f9AkC9-0qQdIm25GRi/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/15i9kLnyCwZXwc6KOzNPQ9yJuwjQ16nfx/view?usp=sharing",
+  portfolio_repository: "https://github.com/mhnarfth/mhnarfth.github.io",
   footer_display_name: "Mahin Arafath",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  /* my Social Media Link */
+  // github: "https://github.com/mhnarfth",
+  // linkedin: "https://www.linkedin.com/in/mhnarfth/",
+  // gmail: "maushariff@outlook.com",
+  // gitlab: "https://gitlab.com/mhnarfth",
+  // facebook: "https://www.facebook.com/mhnarfth/",
+  // twitter: "https://twitter.com/mhnarfth",
+  // instagram: "https://www.instagram.com/mhnarfth/"
 
   {
     name: "Github",
@@ -54,7 +55,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:mhnarfth@gmail.com",
+    link: "mailto:maushariff@outlook.com",
     fontAwesomeIcon: "far fa-envelope", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -87,6 +88,7 @@ const skills = {
         "⚡ Developing highly scalable models for various use cases using deep learning and machine learning",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
         "⚡ Experience of working in Computer Vision and Audio on Signal Processing projects",
+        "⚡ Collaborating on interdisciplinary projects to explore the intersection of AI with other domains",
       ],
       softwareSkills: [
         {
@@ -129,17 +131,16 @@ const skills = {
             fontSize: "58px",
           },
         },
-        
       ],
     },
-    
+
     {
       title: "R1 Researcher",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Demonstrated a systematic understanding of a field of study and mastery of research associated with that field",
-        "⚡ Capable of critical analysis, evaluation and synthesis of new and complex ideas",
-        "⚡ Able to explain the outcome of research (and value thereof) to research colleagues",
+        "⚡ Proficient in critical analysis, evaluation, and synthesis of novel and intricate concepts",
+        "⚡ Articulating research findings and their significance effectively to fellow researchers",
         "⚡ Developed integrated language, communication and environment skills, especially in an international context",
       ],
       softwareSkills: [
@@ -167,7 +168,7 @@ const skills = {
             fontSize: "55px",
           },
         },
-        
+
         {
           skillName: "IEEE ACM",
           fontAwesomeClassname: "logos:ieee",
@@ -197,9 +198,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Creating application backend in Node, Express",
-        "⚡ Blending websites with various AI Technologies",
+        "⚡ Crafting responsive website front ends with React-Redux for seamless user experiences",
+        "⚡ Developing robust application backends using Node.js and Express framework for efficient functionality",
+        "⚡ Integrating websites with diverse AI technologies to enhance functionality and user interaction",
       ],
       softwareSkills: [
         {
@@ -238,7 +239,7 @@ const skills = {
             color: "#61DAFB",
           },
         },
-        
+
         {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
@@ -251,7 +252,7 @@ const skills = {
           fontAwesomeClassname: "logos:express",
           style: {
             color: "#339933",
-            fontSize: "35px"
+            fontSize: "35px",
           },
         },
         {
@@ -289,17 +290,16 @@ const skills = {
             //color: "#663399",
           },
         },
-        
       ],
     },
     {
       title: "Graphics & UI Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Building creative logos from scratch & customizing logo designs",
-        "⚡ Vectorization and Illustration of any design or figure",
-        "⚡ Designing lucrative and attractive user interface",
-        "⚡ Photoshoping anything to give it a outstanding look",
+        "⚡ Crafting unique logos from scratch and tailoring designs to meet specific requirements",
+        "⚡ Proficient in vectorization and illustration of diverse designs and figures   ",
+        "⚡ Designing captivating and user-friendly interfaces to enhance user experience",
+        "⚡ Mastering Photoshop to enhance visual appeal and elevate overall aesthetics",
       ],
       softwareSkills: [
         {
@@ -324,7 +324,7 @@ const skills = {
             color: "#FF2BC2",
           },
         },
-        
+
         {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
@@ -332,7 +332,7 @@ const skills = {
             color: "#F24E1E",
           },
         },
-        
+
         {
           skillName: "Inkscape",
           fontAwesomeClassname: "simple-icons:inkscape",
@@ -354,7 +354,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "",
     },
     {
       siteName: "Codechef",
@@ -362,7 +362,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "",
     },
     {
       siteName: "Codeforces",
@@ -370,7 +370,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "",
     },
     {
       siteName: "Hackerearth",
@@ -378,7 +378,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "",
     },
     {
       siteName: "Kaggle",
@@ -386,7 +386,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "",
     },
   ],
 };
@@ -394,11 +394,27 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
+      title: "Universtiy of Nebraska-Lincoln",
+      subtitle: "Ph.D. in Computer Science",
+      logo_path: "unl_logo.png",
+      alt_name: "UNL",
+      duration: "Aug 2023 - Present",
+      location: "Lincoln, NE, USA",
+      descriptions: [
+        "⚡ Areas of Expertise: AI, Machine Learning, Deep Learning, Computer Vision, Quantum Computing, Design & Analysis of Algorithms.",
+        "⚡ Notable Courses: Operating System Principles, Computer Vision, Design & Analysis of Algorithms, Machine Learning, Internet Systems & Programming.",
+        "⚡ Academic Achievement: Maintained a perfect GPA of 4.0/4.0 throughout the program.",
+        "⚡ Research Focus: Conducting cutting-edge research in the intersection of AI and quantum computing for groundbreaking applications.",
+      ],
+      website_link: "https://www.unl.edu/",
+    },
+    {
       title: "Port City International Universtiy",
       subtitle: "B.Sc. in Computer Science & Engineering",
       logo_path: "pciu_logo.png",
       alt_name: "PCIU",
       duration: "Jan 2017 - Mar 2021",
+      location: "Chattogram, Bangladesh",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, AI, Pattern Recognition, ToC etc.",
         "⚡ Apart from this, I have done courses on Graphics Designing, Machine Learning, Deep Learning, Data Science, and Full Stack Development.",
@@ -412,6 +428,7 @@ const degrees = {
       logo_path: "gccc_logo.png",
       alt_name: "Govt. City College",
       duration: "Jul 2013 - Apr 2015",
+      location: "Chattogram, Bangladesh",
       descriptions: [
         "⚡ Joined Bangladesh Red Crescent Society as my first step towards voluntary and protection acknowledgement of society, however, equity establishment in society was a great intuition.",
         "⚡ Participated in the Bangladesh National Cadet Corps (BNCC) and continued to be the Petrol Leader throughout my entire college educational life. Overall, their entire campaign and tracking gave me the opportunity to self-motivation and hard working exercise to optimize. ",
@@ -425,13 +442,14 @@ const degrees = {
       logo_path: "gmhs_logo.png",
       alt_name: "Govt. Muslim High School",
       duration: "Jan 2008 - Mar 2013",
+      location: "Chattogram, Bangladesh",
       descriptions: [
         "⚡ Crossed the edge of primary school and got myself admitted to high school and the capacity to gain an accurate and deep intuitive knowledge of primary computer based education.",
         "⚡ Spontaneously participated Physics and Mathmatics Olympiad events premises at Government Muslim High School that brought fame and honor to my primary carrer establishment. Besides my competency in multipurpose science projects brought an addition to growing interest in Computer Science and Artificial Intelligence as well.",
         "⚡ Instinctive capacity to join volunteer campaigns and sports like athletics, high-jump, long-jump and similar extracurricular activities so far were enjoyable.",
       ],
       website_link: "http://gmhsctg.tsmts.org/",
-    },  
+    },
   ],
 };
 
@@ -456,7 +474,8 @@ const certifications = {
       color_code: "#a9b3b8",
     },
     {
-      title: "Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and Optimization",
+      title:
+        "Improving Deep Neural Networks: Hyper parameter Tuning, Regularization and Optimization",
       subtitle: "- Andrew Ng",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
@@ -544,7 +563,7 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
       alt_name: "ICT Ministry (LEDP)",
       color_code: "#c9ffe4",
-    }
+    },
   ],
 };
 
@@ -559,6 +578,50 @@ const experience = {
     {
       title: "Work",
       experiences: [
+        {
+          title: "Graduate Research Assistant",
+          company: "Network Research Lab",
+          company_url: "https://cse.unl.edu/~netgroup/",
+          logo_path: "delhivery_logo.png",
+          duration: "Mar 2024 - Present",
+          location: "Lincoln, NE, US",
+          description:
+            "The Netgroup led by Dr. Byrav Ramamurthy at the School of Computing, University of Nebraska-Lincoln, focuses on innovative networking research, emphasizing efficient, scalable, and secure architectures. Ourprojects span Networking and Security, including Optical Networks, Peer-to-Peer Networks, and Software-Defined Networks, integrating expertise from network protocols, security, optimization, and graph theory for novel solutions.",
+          color: "#0879bf",
+        },
+        {
+          title: "Graduate Teaching Assistant",
+          company: "University of Nebraska-Lincoln",
+          company_url: "https://www.unl.edu/",
+          logo_path: "unl_logo.png",
+          duration: "Aug 2023 - Present",
+          location: "Chattogram, Bangladesh",
+          description:
+            "As a Graduate Teaching Assistant at University of Nebraska–Lincoln, I've been entrusted with instructing 140 students in CSCE 310: Data Structures and Algorithms over consecutive semesters, including Fall 2023 and Spring 2024, with additional teaching assignments scheduled for Summer 2024. My duties encompass delivering lectures, leading recitations, and evaluating student assignments, all geared towards fostering active participation and facilitating academic achievement. Utilizing diverse teaching strategies, I strive to cultivate a dynamic learning environment where students are engaged, empowered, and equipped with the necessary skills to excel in their academic pursuits.",
+          color: "#0879bf",
+        },
+        {
+          title: "Teacher Consultant & Coding Instructor (Part-time)",
+          company: "Codingal",
+          company_url: "https://www.codingal.com/",
+          logo_path: "codingal_logo.png",
+          duration: "May 2022 - Jun 2023",
+          location: "Chattogram, Bangladesh",
+          description:
+            "As a Teacher Consultant & Coding Instructor at CODINGAL, I led classes for K-12 students, fostering the development of their logical thinking and problem-solving abilities, with a primary emphasis on AI, Data Science, and Python. Additionally, I conducted webinars, masterclasses, and training workshops to further enhance their learning experience.",
+          color: "#0879bf",
+        },
+        {
+          title: "Assistant Programmer",
+          company: "Arena Web Security",
+          company_url: "https://www.arenawebsecurity.net/",
+          logo_path: "AWS_logo.png",
+          duration: "Apr 2021 - Jun 2023",
+          location: "Dhaka, Bangladesh",
+          description:
+            "During my tenure as an Assistant Programmer, I played a pivotal role in software development lifecycle management. This encompassed tasks such as collecting user requirements, prioritizing them, and outlining technical specifications. Furthermore, I monitored software development and implementation phases, ensuring alignment with project goals. My responsibilities extended to creating test cases, evaluating software based on technical specifications and test cases, and conducting continuous system monitoring to detect and report any bugs promptly.",
+          color: "#0879bf",
+        },
         {
           title: "Research Assistant",
           company: "Deep Learning Research Lab",
@@ -576,22 +639,22 @@ const experience = {
       title: "Conferences",
       experiences: [
         {
-          title: "International Conference on Big Data, IoT and Machine Learning (BIM 2021)",
+          title:
+            "International Conference on Big Data, IoT and Machine Learning (BIM 2021)",
           company: "Center for Natural Science & Engineering Research (CNSER)",
-          company_url:
-            "https://confbim.com/",
+          company_url: "https://confbim.com/",
           logo_path: "intel_logo.jpg",
           duration: "23 Sep 2021 - 25 Sep 2021",
           location: "Cox's Bazar, Bangladesh",
           description:
             "BIM creates opportunity to help everyone, including leaders, policy-makers and people from all income groups and nations, to harness converging technologies in order to create an inclusive, human-centered future. It aims to develop policies and implement the policies focusing the components of 4.0 IR for sustainable developments. BIM 2021 is a good platform for researchers, professionals and students to involve them in innovation and research related to 4.0 IR.",
           color: "#0071C5",
-        }, 
+        },
         {
-          title: "ICSDTIR-2021: International Conference On Sustainable Development in Technology for 4th Industrial Revolution",
+          title:
+            "ICSDTIR-2021: International Conference On Sustainable Development in Technology for 4th Industrial Revolution",
           company: "Port City International University",
-          company_url:
-            "https://www.easychair.org/cfp/ICSDTIR-2021",
+          company_url: "https://www.easychair.org/cfp/ICSDTIR-2021",
           logo_path: "intel_logo.jpg",
           duration: "12 Mar 2021 - 13 Mar 2021",
           location: "PCIU, Chittagong, Bangladesh",
@@ -600,7 +663,8 @@ const experience = {
           color: "#0071C5",
         },
         {
-          title: "2nd International Conference on Trends in Computational and Cognitive Engineering(TCCE-2020)",
+          title:
+            "2nd International Conference on Trends in Computational and Cognitive Engineering(TCCE-2020)",
           company: "INSTITUTE OF INFORMATION TECHNOLOGY, JU",
           company_url: "https://tcce.iitju.edu.bd/",
           logo_path: "delhivery_logo.png",
@@ -654,7 +718,8 @@ const experience = {
       title: "Workshops",
       experiences: [
         {
-          title: "National Workshop on Big Data and Machine Learning (BDML-2020)",
+          title:
+            "National Workshop on Big Data and Machine Learning (BDML-2020)",
           company: "ICT Division & IEE Computer Society (Bangladesh Chapter)",
           company_url: "",
           logo_path: "delhivery_logo.png",
@@ -760,14 +825,14 @@ const experience = {
         {
           title: "International Model United Nation",
           company: "United Nation",
-          company_url:"",
+          company_url: "",
           logo_path: "dsc_logo.png",
           duration: "Sep 2021 - Present",
           location: "Virtual",
           description:
             "This is a growing worldwide issue solvent crucial platform which is arranged under the shadow of United Nations assembly. Interestingly, this is a remote joining program where drafts resolutions and working paper submission is granting an open discussion over a trade war and Covid-19 pandemic situations to handle by developed countries and relief to developing and underdeveloped countries.",
           color: "#0C9D58",
-        }, 
+        },
         {
           title: "NJF Volunteer",
           company: "Nobojagoron Foundation",
@@ -797,312 +862,322 @@ const projectsHeader = {
 //Projects Information
 
 const ProjectsData = {
-  "data": [
+  data: [
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Portfolio Website",
-      "createdAt":"Sep 2021",
-      "url":"",
-      "description":"A responsive website to display my professional information and to present a showcase of my work. The system was developed with HTML, CSS, BOOTSTRAP, JS, ReactJS, React Native, Typescript, React Router",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Portfolio Website",
+      createdAt: "Apr 2024",
+      url: "",
+      description:
+        "A responsive website to display my professional information and to present a showcase of my work. The system was developed with HTML, CSS, BOOTSTRAP, JS, ReactJS, React Native, Typescript, React Router",
+      isFork: false,
+      languages: [
         {
-          "name":"HTML",
-          "iconifyClass":"logos-html-5"
+          name: "HTML",
+          iconifyClass: "logos-html-5",
         },
         {
-          "name":"CSS",
-          "iconifyClass":"logos-css-3"
+          name: "CSS",
+          iconifyClass: "logos-css-3",
         },
         {
-          "name":"Bootstrap",
-          "iconifyClass":"logos:bootstrap"
+          name: "Bootstrap",
+          iconifyClass: "logos:bootstrap",
         },
         {
-          "name":"JavaScript",
-          "iconifyClass":"logos-javascript"
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
         {
-          "name":"React",
-          "iconifyClass":"logos:react"
+          name: "React",
+          iconifyClass: "logos:react",
         },
         {
-          "name":"React Router",
-          "iconifyClass":"logos:react-router"
+          name: "React Router",
+          iconifyClass: "logos:react-router",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Regional Dialect Identification System using Deep Learning",
-      "createdAt":"Feb 2021",
-      "url":"",
-      "description":"The recognition system detects six (6) regional languages of Bangladesh. The system is developed based on my undergrad dissertation. It uses MFCC Features with a novel GLDNN Hybrid model for recognition.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Regional Dialect Identification System using Deep Learning",
+      createdAt: "Feb 2021",
+      url: "",
+      description:
+        "The recognition system detects six (6) regional languages of Bangladesh. The system is developed based on my undergrad dissertation. It uses MFCC Features with a novel GLDNN Hybrid model for recognition.",
+      isFork: false,
+      languages: [
         {
-          "name":"Python",
-          "iconifyClass":"logos:python"
+          name: "Python",
+          iconifyClass: "logos:python",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
         {
-          "name":"Pandas",
-          "iconifyClass":"simple-icons:pandas"
+          name: "Pandas",
+          iconifyClass: "simple-icons:pandas",
         },
         {
-          "name":"NumPy",
-          "iconifyClass":"logos:numpy"
+          name: "NumPy",
+          iconifyClass: "logos:numpy",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"AQI Prediction System using Deep Learning",
-      "createdAt":"July 2020",
-      "url":"",
-      "description":"The system was developed according to my published paper for predicting the AQI index to predict the air quality. After the data preprocessing. Here a Novel Deep Learning model had been used which consists of GRU and LSTM",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "AQI Prediction System using Deep Learning",
+      createdAt: "July 2020",
+      url: "",
+      description:
+        "The system was developed according to my published paper for predicting the AQI index to predict the air quality. After the data preprocessing. Here a Novel Deep Learning model had been used which consists of GRU and LSTM",
+      isFork: false,
+      languages: [
         {
-          "name":"Python",
-          "iconifyClass":"logos:python"
+          name: "Python",
+          iconifyClass: "logos:python",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
         {
-          "name":"Pandas",
-          "iconifyClass":"simple-icons:pandas"
+          name: "Pandas",
+          iconifyClass: "simple-icons:pandas",
         },
         {
-          "name":"NumPy",
-          "iconifyClass":"logos:numpy"
+          name: "NumPy",
+          iconifyClass: "logos:numpy",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Arduino Ultrasonic Radar",
-      "createdAt":"Aug 2019",
-      "url":"",
-      "description":"This radar uses mainly Arduino and ultrasonic sensor to detect any specific object in a certain range. IT also gives the accurate distance information. C++ was used to program the arduino.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Arduino Ultrasonic Radar",
+      createdAt: "Aug 2019",
+      url: "",
+      description:
+        "This radar uses mainly Arduino and ultrasonic sensor to detect any specific object in a certain range. IT also gives the accurate distance information. C++ was used to program the arduino.",
+      isFork: false,
+      languages: [
         {
-          "name":"Arduino",
-          "iconifyClass":"logos:arduino"
+          name: "Arduino",
+          iconifyClass: "logos:arduino",
         },
         {
-          "name":"C++",
-          "iconifyClass":"logos:c-plusplus"
+          name: "C++",
+          iconifyClass: "logos:c-plusplus",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Automated Attendance System (Team)",
-      "createdAt":"Jun 2019",
-      "url":"",
-      "description":"The system was developed using Android Studio to automate the typical tasks of taking attendance. Java, XML and Firebase database were used as developing languages and tools.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Automated Attendance System (Team)",
+      createdAt: "Jun 2019",
+      url: "",
+      description:
+        "The system was developed using Android Studio to automate the typical tasks of taking attendance. Java, XML and Firebase database were used as developing languages and tools.",
+      isFork: false,
+      languages: [
         {
-          "name":"Android",
-          "iconifyClass":"flat-color-icons:android-os"
+          name: "Android",
+          iconifyClass: "flat-color-icons:android-os",
         },
         {
-          "name":"JAVA",
-          "iconifyClass":"logos-java"
+          name: "JAVA",
+          iconifyClass: "logos-java",
         },
         {
-          "name":"Android Studio",
-          "iconifyClass":"mdi:android-studio"
+          name: "Android Studio",
+          iconifyClass: "mdi:android-studio",
         },
         {
-          "name":"Firebase",
-          "iconifyClass":"logos:firebase"
+          name: "Firebase",
+          iconifyClass: "logos:firebase",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Comshopify",
-      "createdAt":"Mar 2019",
-      "url":"",
-      "description":"A System for an IT shop used to display product details, search, purchase products based on different criteria. The system was developed with HTML, CSS, BOOTSTRAP, JS, React and MySQL database.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Comshopify",
+      createdAt: "Mar 2019",
+      url: "",
+      description:
+        "A System for an IT shop used to display product details, search, purchase products based on different criteria. The system was developed with HTML, CSS, BOOTSTRAP, JS, React and MySQL database.",
+      isFork: false,
+      languages: [
         {
-          "name":"HTML",
-          "iconifyClass":"logos-html-5"
+          name: "HTML",
+          iconifyClass: "logos-html-5",
         },
         {
-          "name":"CSS",
-          "iconifyClass":"logos-css-3"
+          name: "CSS",
+          iconifyClass: "logos-css-3",
         },
         {
-          "name":"Bootstrap",
-          "iconifyClass":"logos:bootstrap"
+          name: "Bootstrap",
+          iconifyClass: "logos:bootstrap",
         },
         {
-          "name":"JavaScript",
-          "iconifyClass":"logos-javascript"
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
         {
-          "name":"React",
-          "iconifyClass":"logos:react"
+          name: "React",
+          iconifyClass: "logos:react",
         },
         {
-          "name":"MySQL",
-          "iconifyClass":"logos:mysql"
+          name: "MySQL",
+          iconifyClass: "logos:mysql",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Fashion MNIST Classification",
-      "createdAt":"Jan 2019",
-      "url":"",
-      "description":"Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Several Deep Learning techniques such as Logistic Regression, Convolutional Nerural Network,  feed-forward Neural Network in categorizing Fashion MNIST images.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Fashion MNIST Classification",
+      createdAt: "Jan 2019",
+      url: "",
+      description:
+        "Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Several Deep Learning techniques such as Logistic Regression, Convolutional Nerural Network,  feed-forward Neural Network in categorizing Fashion MNIST images.",
+      isFork: false,
+      languages: [
         {
-          "name":"Python",
-          "iconifyClass":"logos:python"
+          name: "Python",
+          iconifyClass: "logos:python",
         },
         {
-          "name":"Google Colab",
-          "iconifyClass":"simple-icons:googlecolab"
+          name: "Google Colab",
+          iconifyClass: "simple-icons:googlecolab",
         },
         {
-          "name":"Pandas",
-          "iconifyClass":"simple-icons:pandas"
+          name: "Pandas",
+          iconifyClass: "simple-icons:pandas",
         },
         {
-          "name":"NumPy",
-          "iconifyClass":"logos:numpy"
+          name: "NumPy",
+          iconifyClass: "logos:numpy",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Handwritten Digit Recognition",
-      "createdAt":"Nov 2018",
-      "url":"",
-      "description":"The dataset includes 70,000 handwritten-digit images. Implemented a handwritten digit recognition app where a special type of deep neural network that is Convolutional Neural Networks had been used. In the end, built a GUI in which digits can be drawn and recognized it straight away.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Handwritten Digit Recognition",
+      createdAt: "Nov 2018",
+      url: "",
+      description:
+        "The dataset includes 70,000 handwritten-digit images. Implemented a handwritten digit recognition app where a special type of deep neural network that is Convolutional Neural Networks had been used. In the end, built a GUI in which digits can be drawn and recognized it straight away.",
+      isFork: false,
+      languages: [
         {
-          "name":"Python",
-          "iconifyClass":"logos:python"
+          name: "Python",
+          iconifyClass: "logos:python",
         },
         {
-          "name":"Google Colab",
-          "iconifyClass":"simple-icons:googlecolab"
+          name: "Google Colab",
+          iconifyClass: "simple-icons:googlecolab",
         },
         {
-          "name":"Pandas",
-          "iconifyClass":"simple-icons:pandas"
+          name: "Pandas",
+          iconifyClass: "simple-icons:pandas",
         },
         {
-          "name":"NumPy",
-          "iconifyClass":"logos:numpy"
+          name: "NumPy",
+          iconifyClass: "logos:numpy",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"ModernFarmer (Prototype)",
-      "createdAt":"Nov 2018",
-      "url":"",
-      "description":'It\'s a prototype android based application which was developed addressing one of the problem domain ("Ensuring Proper Support For Agro Entrepreneurs") given at "Software Development and PCIU Hackathon 2018". The system was developed using Java and Firebase database.',
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "ModernFarmer (Prototype)",
+      createdAt: "Nov 2018",
+      url: "",
+      description:
+        'It\'s a prototype android based application which was developed addressing one of the problem domain ("Ensuring Proper Support For Agro Entrepreneurs") given at "Software Development and PCIU Hackathon 2018". The system was developed using Java and Firebase database.',
+      isFork: false,
+      languages: [
         {
-          "name":"Android",
-          "iconifyClass":"flat-color-icons:android-os"
+          name: "Android",
+          iconifyClass: "flat-color-icons:android-os",
         },
         {
-          "name":"JAVA",
-          "iconifyClass":"logos-java"
+          name: "JAVA",
+          iconifyClass: "logos-java",
         },
         {
-          "name":"Android Studio",
-          "iconifyClass":"mdi:android-studio"
+          name: "Android Studio",
+          iconifyClass: "mdi:android-studio",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Titanic Survival Prediction Using Machine Learning",
-      "createdAt":"Oct 2018",
-      "url":"",
-      "description":"The system was developed to predict the survival of the titanic disaster happened in 1912. After doing the preprocessing several machine learning models were applied and the best was chosen examining the confusion matrix, accuracy, precision, recall and f1- score.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Titanic Survival Prediction Using Machine Learning",
+      createdAt: "Oct 2018",
+      url: "",
+      description:
+        "The system was developed to predict the survival of the titanic disaster happened in 1912. After doing the preprocessing several machine learning models were applied and the best was chosen examining the confusion matrix, accuracy, precision, recall and f1- score.",
+      isFork: false,
+      languages: [
         {
-          "name":"Python",
-          "iconifyClass":"logos:python"
+          name: "Python",
+          iconifyClass: "logos:python",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
         {
-          "name":"Pandas",
-          "iconifyClass":"simple-icons:pandas"
+          name: "Pandas",
+          iconifyClass: "simple-icons:pandas",
         },
         {
-          "name":"NumPy",
-          "iconifyClass":"logos:numpy"
+          name: "NumPy",
+          iconifyClass: "logos:numpy",
         },
         {
-          "name":"Jupyter Notebook",
-          "iconifyClass":"logos:jupyter"
+          name: "Jupyter Notebook",
+          iconifyClass: "logos:jupyter",
         },
-      ]
+      ],
     },
     {
-      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name":"Archer Mastery Game",
-      "createdAt":"Jul 2018",
-      "url":"",
-      "description":"It's an arcade game developed using Unity,a cross-platform game engine. Besides other programming languages, C++ was used mainly alongside unity for th development purpose.",
-      "isFork":false,
-      "languages": [
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "Archer Mastery Game",
+      createdAt: "Jul 2018",
+      url: "",
+      description:
+        "It's an arcade game developed using Unity,a cross-platform game engine. Besides other programming languages, C++ was used mainly alongside unity for th development purpose.",
+      isFork: false,
+      languages: [
         {
-          "name":"Unity Engine",
-          "iconifyClass":"logos:unity"
+          name: "Unity Engine",
+          iconifyClass: "logos:unity",
         },
         {
-          "name":"C++",
-          "iconifyClass":"logos:c-plusplus"
+          name: "C++",
+          iconifyClass: "logos:c-plusplus",
         },
-      ]
+      ],
     },
-  ] 
-}
-
+  ],
+};
 
 //Publication Header
 const publicationsHeader = {
@@ -1112,40 +1187,47 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-
 //Publication Information
 const PublicationData = {
-    "data": [
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-        "url": "https://link.springer.com/chapter/10.1007/978-981-33-4673-4_29",
-        "name": "A Novel Deep Learning Approach to Predict Air Quality Index",
-        "createdAt": "Dec 2020",
-        "publishedIn" : "Book",
-        "publisher" : "Springer",
-        "abstract": "In accordance with the World Health Organization’s instruction, the air quality in Bangladesh is considered perilous. A productive and precise air quality index (AQI) is a must and one of the obligatory conditions for helping the society to be viable in lieu of the consequences of air contamination. If we know the index of air quality in advance, then it would be of a great help saving our health from air contamination. This study introduces an air quality index prediction model for two mostly polluted cities in Bangladesh: Dhaka and Chattogram. Gated recurrent unit (GRU), long short-term memory (LSTM) are the two robust variation of recurrent neural network (RNN). This model combines these two together. We have used GRU as first hidden layer and LSTM as the second hidden layer of the model, followed by two dense layers. After collecting and processing the data, the model was trained on 80% of the data and then validated against the remaining data. We have evaluated the performance of the model considering MSE, RMSE, and MAE to see how much error does the model produce. Results reflect that our model can follow the actual AQI trends for both cities. At last, we have juxtaposed the performance of our proposed hybrid model against a standalone GRU model and a standalone LSTM model. Results also show that combining these two models improves the overall model’s performance."
-      },
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-        "url": "https://drive.google.com/file/d/1IvO9Ap-qoR4u4GEYirZSu9sUjGBpEhvt/view?usp=sharing",
-        "name": "A Comparative Study of Big Data Visualization Tools and Techniques",
-        "createdAt": "[to be published on next month]",
-        "publishedIn" : "N/A",
-        "publisher" : "Taylor & Francis",
-        "abstract": "We are living in an age where everything is getting recorded digitally, thanks to the rise of the Internet and Social Media. Exabytes of data are getting generated frequently which needs to be explored, cleansed and analysed to make them usable. Big data is a term that represents a huge volume of structured, semi-structured, or unstructured data. Translating information into meaningful visual context such as graphs, maps or charts to make data easier as well as pulling insights are called Data visualization. It also introduces numerous possibilities for solving the big-data problem by creative ideation through visual means. Lots of challenges as well as problems are associated with big data analysis due to its complex characteristics. In this article, we’ll discuss about the reasons of big data visualization being necessary, as well as some big data visualization tools. We will also summarize different types of challenges in visualization methods as well as suggest possible way forward for complications pertaining to the visualization of Big Data. In addition, the working procedure, characteristics, and drawbacks of several tools and techniques for big data visualization are examined in our research."
-      },
-      {
-        "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-        "url": "https://drive.google.com/file/d/1WhTagumtEyfUz570pnsT2D-eN3l9UcAL/view?usp=sharing",
-        "name": "A Bangladeshi Regional Dialects Identification using a Novel GLDNN Hybrid Model",
-        "createdAt": "Mar 2021",
-        "publishedIn" : "Dissertation Book",
-        "publisher" : "Undergraduate Thesis",
-        "abstract": "Dialect recognition is an area of linguistic recognition science. In speech processing, automatic recognition systems are used effectively to categorize observed utterances by the speaker's identity, dialect, and linguistic communication. The dialect of the speaker can reduce automatic speech recognition systems efficiency. Dialects can affect the recognition of the voice because they influence intonation and syllable pronunciation. The characteristics of each tribe and area reflect in each dialect. There has been a significant amount of investigation to detect speeches, dialects, and tongues of various regions worldwide. However, the research is not popular to work on Bangladeshi dialects. In turn, these dialects vary considerably. This work is an effort to meet the needs of new languages which have not received enough resources. The recognition scheme will serve the benefit and interest of Bangladeshi-speakers and helps to keep the dialects of the language preserved. Speech samples are obtained to create a database that contains dialects of various ages and genders. Mel Frequency Cepstral Coefficients as features derived from the database. The dialects under consideration are Barisali, Brahmanbaria, Chittagonian, Chapainawabganj, Noakhali & Sylheti. This paper aims to build a speech-recognition System with Mel Frequency Cepstral Coefficients that is fed into a Neural Network based hybrid system (GLDNN) consists of Gated Recurrent Unit (GRU), Long-Short Term Memory (LSTM), and Deep Neural Network to distinguish those specific dialects. Results indicate that the system outperforms the preceding system."
-      }
-    ] 
-}
- 
+  data: [
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      url: "https://link.springer.com/chapter/10.1007/978-981-33-4673-4_29",
+      name: "A Novel Deep Learning Approach to Predict Air Quality Index",
+      createdAt: "Dec 2020",
+      publishedIn:
+        "Proceedings of International Conference on Trends in Computational and Cognitive Engineering 2020",
+      publisher: "Springer",
+      abstract:
+        "In accordance with the World Health Organization’s instruction, the air quality in Bangladesh is considered perilous. A productive and precise air quality index (AQI) is a must and one of the obligatory conditions for helping the society to be viable in lieu of the consequences of air contamination. If we know the index of air quality in advance, then it would be of a great help saving our health from air contamination. This study introduces an air quality index prediction model for two mostly polluted cities in Bangladesh: Dhaka and Chattogram. Gated recurrent unit (GRU), long short-term memory (LSTM) are the two robust variation of recurrent neural network (RNN). This model combines these two together. We have used GRU as first hidden layer and LSTM as the second hidden layer of the model, followed by two dense layers. After collecting and processing the data, the model was trained on 80% of the data and then validated against the remaining data. We have evaluated the performance of the model considering MSE, RMSE, and MAE to see how much error does the model produce. Results reflect that our model can follow the actual AQI trends for both cities. At last, we have juxtaposed the performance of our proposed hybrid model against a standalone GRU model and a standalone LSTM model. Results also show that combining these two models improves the overall model’s performance.",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      url:
+        "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003256069-16/comparative-study-big-data-visualization-tools-techniques-khadija-begum-md-mamunur-rashid-mohammad-arafath-uddin-shariff",
+      name:
+        "A Comparative Study of Big Data Visualization Tools and Techniques",
+      createdAt: "Feb 2023  ",
+      publishedIn: "Applied Informatics for Industry 4.0",
+      publisher: "Taylor & Francis",
+      abstract:
+        "We are living in an age where everything is getting recorded digitally, thanks to the rise of the Internet and Social Media. Exabytes of data are getting generated frequently which needs to be explored, cleansed and analysed to make them usable. Big data is a term that represents a huge volume of structured, semi-structured, or unstructured data. Translating information into meaningful visual context such as graphs, maps or charts to make data easier as well as pulling insights are called Data visualization. It also introduces numerous possibilities for solving the big-data problem by creative ideation through visual means. Lots of challenges as well as problems are associated with big data analysis due to its complex characteristics. In this article, we’ll discuss about the reasons of big data visualization being necessary, as well as some big data visualization tools. We will also summarize different types of challenges in visualization methods as well as suggest possible way forward for complications pertaining to the visualization of Big Data. In addition, the working procedure, characteristics, and drawbacks of several tools and techniques for big data visualization are examined in our research.",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      url:
+        "https://drive.google.com/file/d/1WhTagumtEyfUz570pnsT2D-eN3l9UcAL/view?usp=sharing",
+      name:
+        "A Bangladeshi Regional Dialects Identification using a Novel GLDNN Hybrid Model",
+      createdAt: "Mar 2021",
+      publishedIn: "Dissertation Book",
+      publisher: "Undergraduate Thesis",
+      abstract:
+        "Dialect recognition is an area of linguistic recognition science. In speech processing, automatic recognition systems are used effectively to categorize observed utterances by the speaker's identity, dialect, and linguistic communication. The dialect of the speaker can reduce automatic speech recognition systems efficiency. Dialects can affect the recognition of the voice because they influence intonation and syllable pronunciation. The characteristics of each tribe and area reflect in each dialect. There has been a significant amount of investigation to detect speeches, dialects, and tongues of various regions worldwide. However, the research is not popular to work on Bangladeshi dialects. In turn, these dialects vary considerably. This work is an effort to meet the needs of new languages which have not received enough resources. The recognition scheme will serve the benefit and interest of Bangladeshi-speakers and helps to keep the dialects of the language preserved. Speech samples are obtained to create a database that contains dialects of various ages and genders. Mel Frequency Cepstral Coefficients as features derived from the database. The dialects under consideration are Barisali, Brahmanbaria, Chittagonian, Chapainawabganj, Noakhali & Sylheti. This paper aims to build a speech-recognition System with Mel Frequency Cepstral Coefficients that is fed into a Neural Network based hybrid system (GLDNN) consists of Gated Recurrent Unit (GRU), Long-Short Term Memory (LSTM), and Deep Neural Network to distinguish those specific dialects. Results indicate that the system outperforms the preceding system.",
+    },
+  ],
+};
+
 // Contact Page
 const contactPageData = {
   contactSection: {
@@ -1163,14 +1245,13 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Kazi Nazrul Islam Road, Firingi Bazar, P.O - G.P.O-4000, P.S - Kotowali, Dist.-Chattogram, Bangladesh",
+    subtitle: "Lincon, Nebraska, United States",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/DHxJTLqNRV19FQzD7",
+    location_map_link: "https://maps.app.goo.gl/hn3aWSPfbH6JhPPBA",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+880 1858559555",
+    subtitle: "(402) 417-6666",
   },
 };
 
